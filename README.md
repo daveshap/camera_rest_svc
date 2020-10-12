@@ -1,9 +1,12 @@
 # Camera REST microservice
+
 Basic webcam REST microservice
 
 # Usage
+
 1. Run with `python camera.py`
 2. Microservice periodically POSTs an image to the nexus microservice
+3. Timestamp allows for precise calculations for services like SLAM
 
 # Payload
 
