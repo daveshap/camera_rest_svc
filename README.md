@@ -1,2 +1,2 @@
-# camera_rest_svc
-Basic webcam REST service
+# Camera REST microservice
+Basic webcam REST microservice
